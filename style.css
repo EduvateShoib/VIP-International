@@ -1,0 +1,41 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	background-color: pink;
+	margin: 0;
+	padding: 0;
+}
+
+
+.FormDiv{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50%;
+	height: 50%;
+	background-color: skyblue;
+}
+
+input{
+	width: 90%;
+	padding: 10px;
+	font-family : arial;
+	font-size : 1.3rem;
+	margin-bottom: 10px;
+}
+
+#btn{
+	background-color: green;
+	color: white;
+}
+
+form{
+	width: 90%;
+}
+
+label{
+	font-family: arial;
+	font-size: 1.3rem;
+	margin-bottom: 10px;
+}
